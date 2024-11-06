@@ -18,4 +18,6 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./login.png "Optional title")
+
+Nota-se que a senha do facebook é encriptada antes de enviar para os servidores.
